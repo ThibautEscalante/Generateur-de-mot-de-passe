@@ -6,7 +6,7 @@ Ce script Python génère des mots de passe robustes en fonction de la longueur 
 
 1. Clonez ce dépôt sur votre machine :
 
-git clone https://github.com/votre-utilisateur/generateur-mots-de-passe.git
+git clone https://github.com/ThibautEscalante/generateur-mots-de-passe.git
 
 
 2. Exécutez le script `generate_password.py` :
